@@ -1,0 +1,12 @@
+{
+  "name": "airBnBFront",
+  "displayName": "airBnBFront",
+  "expo": {
+    "name": "airBnBFront",
+    "slug": "airBnBFront",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
